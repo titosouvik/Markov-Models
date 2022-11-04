@@ -1,0 +1,5 @@
+markov Models application - Finance, Reinforcement learning, Speech Recognition etc.
+used for modelling sequences
+Both supervisd and unsupervised
+Predicts probability of a sequence given previous information
+Markov property - Xt dependes only on Xt-1
